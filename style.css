@@ -22,3 +22,23 @@ margin:10px 0;
 border-radius:8px;
 box-shadow:0 2px 5px rgba(0,0,0,0.1);
 }
+#contact {
+text-align: center;
+padding: 40px;
+background: #111;
+color: white;
+}
+
+.contact-links a {
+display: inline-block;
+margin: 10px 15px;
+padding: 10px 20px;
+text-decoration: none;
+color: white;
+background: #444;
+border-radius: 5px;
+}
+
+.contact-links a:hover {
+background: #0077ff;
+}
